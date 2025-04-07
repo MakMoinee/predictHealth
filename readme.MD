@@ -40,7 +40,13 @@ Follow these steps to set up the project and run the Flask API in a virtual envi
    Run the Flask API server with the following command:
 
    ```bash
-   python app.py
+   python api2.py
+   ```
+
+   Or Run the Flask API server with opening this file (Windows):
+
+   ```bash
+   start_api.bat
    ```
 
    By default, the server will run on `http://127.0.0.1:5000`.
