@@ -1,0 +1,5882 @@
+{
+    "_id": "67e93d21c1a92d6fc199f855",
+    "username": "vspens",
+    "__v": 0,
+    "activeEnergyBurned": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63109"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6310a"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6310b"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6310c"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6310d"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6310e"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6310f"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63110"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63111"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63112"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63113"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63114"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63115"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63116"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63117"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63118"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63119"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6311a"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6311b"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6311c"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6311d"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6311e"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 11.021000000000003,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6311f"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 115.89199999999997,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63120"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 79.00699999999999,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63121"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 245.0749999999999,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63122"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 435.23289892808185,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63123"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 238.718437551434,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63124"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 45.32366352048399,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63125"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 312.079,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63126"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 2.696,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63127"
+        }
+    ],
+    "appleExerciseTime": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ebc"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ebd"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ebe"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ebf"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ec0"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ec1"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ec2"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ec3"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ec4"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ec5"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ec6"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ec7"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ec8"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ec9"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62eca"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ecb"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ecc"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ecd"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ece"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ecf"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ed0"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ed1"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 1,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ed2"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 5,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ed3"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 3,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ed4"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 18,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ed5"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 24,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ed6"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 10,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ed7"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 7,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ed8"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 1,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62ed9"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62eda"
+        }
+    ],
+    "basalEnergyBurned": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6308d"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6308e"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6308f"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63090"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63091"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63092"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63093"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63094"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63095"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63096"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63097"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63098"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63099"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6309a"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6309b"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6309c"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6309d"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6309e"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6309f"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc630a0"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc630a1"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc630a2"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 396.6606427167831,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc630a3"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 1525.8782481876542,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc630a4"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 1515.9834625920296,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc630a5"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 1554.9314390896566,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc630a6"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 1738.6254447031886,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc630a7"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 1657.637225195868,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc630a8"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 1481.6485851011057,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc630a9"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 640.9086783535055,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc630aa"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 990.609274060192,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc630ab"
+        }
+    ],
+    "bloodPressureDiastolic": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630ac"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630ad"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630ae"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630af"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630b0"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630b1"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630b2"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630b3"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630b4"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630b5"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630b6"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630b7"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630b8"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630b9"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630ba"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630bb"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630bc"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630bd"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630be"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630bf"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630c0"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630c1"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630c2"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630c3"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630c4"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630c5"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630c6"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630c7"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630c8"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630c9"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc630ca"
+        }
+    ],
+    "bloodPressureSystolic": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62f95"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62f96"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62f97"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62f98"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62f99"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62f9a"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62f9b"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62f9c"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62f9d"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62f9e"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62f9f"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fa0"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fa1"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fa2"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fa3"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fa4"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fa5"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fa6"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fa7"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fa8"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fa9"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62faa"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fab"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fac"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fad"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fae"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62faf"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fb0"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fb1"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fb2"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "mmHg",
+            "_id": "67f25831dd719a2a6fc62fb3"
+        }
+    ],
+    "bodyFatPercentage": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e7e"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e7f"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e80"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e81"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e82"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e83"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e84"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e85"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e86"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e87"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e88"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e89"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e8a"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e8b"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e8c"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e8d"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e8e"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e8f"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e90"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e91"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e92"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e93"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0.39,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e94"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0.39,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e95"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e96"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e97"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e98"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e99"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e9a"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e9b"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc62e9c"
+        }
+    ],
+    "bodyMass": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62edb"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62edc"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62edd"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ede"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62edf"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ee0"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ee1"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ee2"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ee3"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ee4"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ee5"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ee6"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ee7"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ee8"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ee9"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62eea"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62eeb"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62eec"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62eed"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62eee"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62eef"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ef0"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 74,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ef1"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ef2"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 73,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ef3"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ef4"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ef5"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ef6"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ef7"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ef8"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62ef9"
+        }
+    ],
+    "bodyMassIndex": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f19"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f1a"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f1b"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f1c"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f1d"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f1e"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f1f"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f20"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f21"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f22"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f23"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f24"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f25"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f26"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f27"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f28"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f29"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f2a"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f2b"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f2c"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f2d"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f2e"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 29.62,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f2f"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f30"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f31"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f32"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f33"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f34"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f35"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f36"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f37"
+        }
+    ],
+    "bodyTemperature": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fd3"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fd4"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fd5"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fd6"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fd7"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fd8"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fd9"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fda"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fdb"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fdc"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fdd"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fde"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fdf"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fe0"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fe1"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fe2"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fe3"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fe4"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fe5"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fe6"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fe7"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fe8"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fe9"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fea"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62feb"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fec"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fed"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fee"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62fef"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62ff0"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "degC",
+            "_id": "67f25831dd719a2a6fc62ff1"
+        }
+    ],
+    "createdAt": "2025-03-30T12:46:22.593Z",
+    "dietaryCarbohydrates": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63201"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63202"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63203"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63204"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63205"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63206"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63207"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63208"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63209"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6320a"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6320b"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6320c"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6320d"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6320e"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6320f"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63210"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63211"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63212"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63213"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63214"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63215"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63216"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63217"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63218"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63219"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6321a"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6321b"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6321c"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6321d"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6321e"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6321f"
+        }
+    ],
+    "dietaryEnergyConsumed": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631e2"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631e3"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631e4"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631e5"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631e6"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631e7"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631e8"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631e9"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631ea"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631eb"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631ec"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631ed"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631ee"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631ef"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631f0"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631f1"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631f2"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631f3"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631f4"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631f5"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631f6"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631f7"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631f8"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631f9"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631fa"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631fb"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631fc"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631fd"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631fe"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc631ff"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63200"
+        }
+    ],
+    "dietaryFatTotal": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6304f"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63050"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63051"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63052"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63053"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63054"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63055"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63056"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63057"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63058"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63059"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6305a"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6305b"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6305c"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6305d"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6305e"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6305f"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63060"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63061"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63062"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63063"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63064"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63065"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63066"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63067"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63068"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63069"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6306a"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6306b"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6306c"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6306d"
+        }
+    ],
+    "dietaryProtein": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63011"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63012"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63013"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63014"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63015"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63016"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63017"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63018"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63019"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6301a"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6301b"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6301c"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6301d"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6301e"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6301f"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63020"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63021"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63022"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63023"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63024"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63025"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63026"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63027"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63028"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc63029"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6302a"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6302b"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6302c"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6302d"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6302e"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "g",
+            "_id": "67f25831dd719a2a6fc6302f"
+        }
+    ],
+    "dietaryWater": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62ff2"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62ff3"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62ff4"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62ff5"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62ff6"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62ff7"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62ff8"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62ff9"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62ffa"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62ffb"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62ffc"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62ffd"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62ffe"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc62fff"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc63000"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc63001"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc63002"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc63003"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc63004"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc63005"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc63006"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc63007"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0.5,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc63008"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc63009"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc6300a"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc6300b"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc6300c"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc6300d"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc6300e"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc6300f"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "L",
+            "_id": "67f25831dd719a2a6fc63010"
+        }
+    ],
+    "distanceWalkingRunning": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62e9d"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62e9e"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62e9f"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62ea0"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62ea1"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62ea2"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62ea3"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62ea4"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62ea5"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62ea6"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62ea7"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62ea8"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62ea9"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eaa"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eab"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eac"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62ead"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eae"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eaf"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eb0"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eb1"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eb2"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 251.5566509103228,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eb3"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 1794.8915829549305,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eb4"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 847.7301518899185,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eb5"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 3272.40416366066,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eb6"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 4339.077475819367,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eb7"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 1375.835040741846,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eb8"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 1298.8947787253928,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eb9"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 1234.0290533102234,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62eba"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 243.50100014684722,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc62ebb"
+        }
+    ],
+    "ecgDetailedData": [
+        {
+            "averageHeartRate": 76,
+            "samplingFrequency": 512,
+            "duration": 30,
+            "device": "Apple Watch",
+            "classification": "sinusRhythm",
+            "metadata": "[\"HKMetadataKeySyncIdentifier\": 7D579D49-16A0-46AA-A747-0A4980C930EE, \"HKMetadataKeyAppleECGAlgorithmVersion\": 2, \"HKMetadataKeySyncVersion\": 0]",
+            "endDate": "2025-04-03 12:37:17",
+            "symptomsStatus": "notPresent",
+            "startDate": "2025-04-03 12:36:47"
+        },
+        {
+            "device": "Apple Watch",
+            "startDate": "2025-03-30 01:02:38",
+            "averageHeartRate": 70,
+            "endDate": "2025-03-30 01:03:08",
+            "symptomsStatus": "notPresent",
+            "classification": "sinusRhythm",
+            "metadata": "[\"HKMetadataKeySyncIdentifier\": 3F11CD1A-C68E-4629-BFC5-07AA9C010080, \"HKMetadataKeyAppleECGAlgorithmVersion\": 2, \"HKMetadataKeySyncVersion\": 0]",
+            "samplingFrequency": 512,
+            "duration": 30
+        }
+    ],
+    "electrocardiogram": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63185"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63186"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63187"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63188"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63189"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc6318a"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc6318b"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc6318c"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc6318d"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc6318e"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc6318f"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63190"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63191"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63192"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63193"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63194"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63195"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63196"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63197"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63198"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc63199"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc6319a"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc6319b"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 1,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc6319c"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc6319d"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc6319e"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc6319f"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 1,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631a0"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631a1"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631a2"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631a3"
+        }
+    ],
+    "flightsClimbed": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631c3"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631c4"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631c5"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631c6"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631c7"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631c8"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631c9"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631ca"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631cb"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631cc"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631cd"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631ce"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631cf"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631d0"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631d1"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631d2"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631d3"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631d4"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631d5"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631d6"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631d7"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631d8"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631d9"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 2,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631da"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 8,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631db"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 7,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631dc"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 15,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631dd"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 7,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631de"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 9,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631df"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 2,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631e0"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 7,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc631e1"
+        }
+    ],
+    "heartRate": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631a4"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631a5"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631a6"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631a7"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631a8"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631a9"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631aa"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631ab"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631ac"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631ad"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631ae"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631af"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631b0"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631b1"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631b2"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631b3"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631b4"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631b5"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631b6"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631b7"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631b8"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631b9"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631ba"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631bb"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631bc"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631bd"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631be"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631bf"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631c0"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631c1"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc631c2"
+        }
+    ],
+    "heartRateVariabilitySDNN": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630cb"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630cc"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630cd"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630ce"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630cf"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630d0"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630d1"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630d2"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630d3"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630d4"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630d5"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630d6"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630d7"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630d8"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630d9"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630da"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630db"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630dc"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630dd"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630de"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630df"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630e0"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630e1"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630e2"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630e3"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630e4"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630e5"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630e6"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630e7"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630e8"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "ms",
+            "_id": "67f25831dd719a2a6fc630e9"
+        }
+    ],
+    "height": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc6306e"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc6306f"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63070"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63071"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63072"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63073"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63074"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63075"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63076"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63077"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63078"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63079"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc6307a"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc6307b"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc6307c"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc6307d"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc6307e"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc6307f"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63080"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63081"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63082"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63083"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 1.57,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63084"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63085"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63086"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63087"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63088"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63089"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc6308a"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc6308b"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc6308c"
+        }
+    ],
+    "leanBodyMass": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fb4"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fb5"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fb6"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fb7"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fb8"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fb9"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fba"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fbb"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fbc"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fbd"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fbe"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fbf"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fc0"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fc1"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fc2"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fc3"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fc4"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fc5"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fc6"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fc7"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fc8"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fc9"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 43,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fca"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fcb"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fcc"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fcd"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fce"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fcf"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fd0"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fd1"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "kg",
+            "_id": "67f25831dd719a2a6fc62fd2"
+        }
+    ],
+    "menstrualFlow": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f76"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f77"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f78"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f79"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f7a"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f7b"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f7c"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f7d"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f7e"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f7f"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f80"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f81"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f82"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f83"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f84"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f85"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f86"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f87"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f88"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f89"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f8a"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f8b"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f8c"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f8d"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f8e"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f8f"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f90"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f91"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 3,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f92"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f93"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "level",
+            "_id": "67f25831dd719a2a6fc62f94"
+        }
+    ],
+    "oxygenSaturation": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63220"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63221"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63222"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63223"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63224"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63225"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63226"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63227"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63228"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63229"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc6322a"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc6322b"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc6322c"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc6322d"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc6322e"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc6322f"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63230"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63231"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63232"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63233"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63234"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63235"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63236"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63237"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63238"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc63239"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc6323a"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc6323b"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc6323c"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc6323d"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "%",
+            "_id": "67f25831dd719a2a6fc6323e"
+        }
+    ],
+    "respiratoryRate": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63147"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63148"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63149"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6314a"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6314b"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6314c"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6314d"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6314e"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6314f"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63150"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63151"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63152"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63153"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63154"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63155"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63156"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63157"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63158"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63159"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6315a"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6315b"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6315c"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6315d"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6315e"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6315f"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63160"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63161"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63162"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63163"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63164"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63165"
+        }
+    ],
+    "restingHeartRate": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f38"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f39"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f3a"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f3b"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f3c"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f3d"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f3e"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f3f"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f40"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f41"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f42"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f43"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f44"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f45"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f46"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f47"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f48"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f49"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f4a"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f4b"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f4c"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f4d"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f4e"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f4f"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f50"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f51"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f52"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f53"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f54"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f55"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc62f56"
+        }
+    ],
+    "sleepAnalysis": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63030"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63031"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63032"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63033"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63034"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63035"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63036"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63037"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63038"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63039"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc6303a"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc6303b"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc6303c"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc6303d"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc6303e"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc6303f"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63040"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63041"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63042"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63043"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63044"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63045"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63046"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63047"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63048"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc63049"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc6304a"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc6304b"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 121,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc6304c"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc6304d"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc6304e"
+        }
+    ],
+    "stepCount": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f57"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f58"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f59"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f5a"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f5b"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f5c"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f5d"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f5e"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f5f"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f60"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f61"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f62"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f63"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f64"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f65"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f66"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f67"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f68"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f69"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f6a"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f6b"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f6c"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 380,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f6d"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 2677.6511901959266,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f6e"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 1187,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f6f"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 4412.754889975135,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f70"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 5964.783901435253,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f71"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 1930.0745125168612,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f72"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 1902,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f73"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 1954,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f74"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 382,
+            "unit": "count",
+            "_id": "67f25831dd719a2a6fc62f75"
+        }
+    ],
+    "walkingHeartRateAverage": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63166"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63167"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63168"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63169"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6316a"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6316b"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6316c"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6316d"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6316e"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6316f"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63170"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63171"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63172"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63173"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63174"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63175"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63176"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63177"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63178"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63179"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6317a"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6317b"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6317c"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6317d"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6317e"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc6317f"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63180"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63181"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63182"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63183"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "count/min",
+            "_id": "67f25831dd719a2a6fc63184"
+        }
+    ],
+    "workoutCalories": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63128"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63129"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6312a"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6312b"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6312c"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6312d"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6312e"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6312f"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63130"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63131"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63132"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63133"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63134"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63135"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63136"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63137"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63138"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63139"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6313a"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6313b"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6313c"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6313d"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6313e"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 23.651999999999962,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc6313f"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63140"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63141"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63142"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63143"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63144"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63145"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "kcal",
+            "_id": "67f25831dd719a2a6fc63146"
+        }
+    ],
+    "workoutDetailedData": [
+        {
+            "endTime": "2025-03-30 17:36:49",
+            "effortScore": 0,
+            "totalRestingEnergy": 2.584000000000002,
+            "type": "Walking",
+            "startTime": "2025-03-30 17:35:03",
+            "duration": 1.7739607175191243,
+            "totalActiveEnergy": 1.5700000000000007,
+            "totalDistance": 0,
+            "averageHeartRate": 64.74460431697558
+        },
+        {
+            "type": "Cycling",
+            "totalActiveEnergy": 22.08199999999996,
+            "totalDistance": 0,
+            "averageHeartRate": 72.40607413129626,
+            "startTime": "2025-03-30 16:39:23",
+            "duration": 10.516942016283672,
+            "endTime": "2025-03-30 16:49:54",
+            "totalRestingEnergy": 16.455999999999946,
+            "effortScore": 0
+        }
+    ],
+    "workoutDistance": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630ea"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630eb"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630ec"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630ed"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630ee"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630ef"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630f0"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630f1"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630f2"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630f3"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630f4"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630f5"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630f6"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630f7"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630f8"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630f9"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630fa"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630fb"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630fc"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630fd"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630fe"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc630ff"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63100"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63101"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63102"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63103"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63104"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63105"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63106"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63107"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "m",
+            "_id": "67f25831dd719a2a6fc63108"
+        }
+    ],
+    "workoutDuration": [
+        {
+            "date": "2025-03-07",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62efa"
+        },
+        {
+            "date": "2025-03-08",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62efb"
+        },
+        {
+            "date": "2025-03-09",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62efc"
+        },
+        {
+            "date": "2025-03-10",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62efd"
+        },
+        {
+            "date": "2025-03-11",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62efe"
+        },
+        {
+            "date": "2025-03-12",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62eff"
+        },
+        {
+            "date": "2025-03-13",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f00"
+        },
+        {
+            "date": "2025-03-14",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f01"
+        },
+        {
+            "date": "2025-03-15",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f02"
+        },
+        {
+            "date": "2025-03-16",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f03"
+        },
+        {
+            "date": "2025-03-17",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f04"
+        },
+        {
+            "date": "2025-03-18",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f05"
+        },
+        {
+            "date": "2025-03-19",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f06"
+        },
+        {
+            "date": "2025-03-20",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f07"
+        },
+        {
+            "date": "2025-03-21",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f08"
+        },
+        {
+            "date": "2025-03-22",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f09"
+        },
+        {
+            "date": "2025-03-23",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f0a"
+        },
+        {
+            "date": "2025-03-24",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f0b"
+        },
+        {
+            "date": "2025-03-25",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f0c"
+        },
+        {
+            "date": "2025-03-26",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f0d"
+        },
+        {
+            "date": "2025-03-27",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f0e"
+        },
+        {
+            "date": "2025-03-28",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f0f"
+        },
+        {
+            "date": "2025-03-29",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f10"
+        },
+        {
+            "date": "2025-03-30",
+            "value": 12.290902733802795,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f11"
+        },
+        {
+            "date": "2025-03-31",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f12"
+        },
+        {
+            "date": "2025-04-01",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f13"
+        },
+        {
+            "date": "2025-04-02",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f14"
+        },
+        {
+            "date": "2025-04-03",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f15"
+        },
+        {
+            "date": "2025-04-04",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f16"
+        },
+        {
+            "date": "2025-04-05",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f17"
+        },
+        {
+            "date": "2025-04-06",
+            "value": 0,
+            "unit": "min",
+            "_id": "67f25831dd719a2a6fc62f18"
+        }
+    ]
+}
