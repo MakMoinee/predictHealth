@@ -1,7 +1,3 @@
-Here is the README file for your Flask API using virtualenv:
-
----
-
 # Health Prediction API
 
 This API predicts the health condition (Dehydration, Overfatigue, or Heat Stroke Risk) based on the provided health data.
