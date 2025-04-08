@@ -68,14 +68,12 @@ Example request body:
 {
     "health_data": {
         "heartRate": 75,
+        "stepCount": 8000,
+        "distanceWalkingRunning": 5.0,
+        "activeEnergyBurned": 300,
         "restingHeartRate": 65,
-        "walkingHeartRateAverage": 80,
-        "activeEnergyBurned": 200,
-        "basalEnergyBurned": 1500,
-        "stepCount": 5000,
-        "distanceWalkingRunning": 3.5
-    },
-    "type": "dehydration"
+        "walkingHeartRateAverage": 85
+    }
 }
 ```
 
@@ -100,11 +98,12 @@ curl --location --request POST 'http://127.0.0.1:5000/predict' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "health_data": {
-        "stepCount": 5000,
-        "distanceWalkingRunning": 3.5,
-        "activeEnergyBurned": 200,
+        "heartRate": 75,
+        "stepCount": 8000,
+        "distanceWalkingRunning": 5.0,
+        "activeEnergyBurned": 300,
         "restingHeartRate": 65,
-        "walkingHeartRateAverage": 80
+        "walkingHeartRateAverage": 85
     }
 }'
 ```
