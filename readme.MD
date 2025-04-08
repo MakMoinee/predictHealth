@@ -96,7 +96,7 @@ Example response:
 You can test the API using the following `curl` command:
 
 ```bash
-curl -X POST http://127.0.0.1:5000/predict -H "Content-Type: application/json" -d '{"health_data": {"heartRate": 75, "restingHeartRate": 65, "walkingHeartRateAverage": 80, "activeEnergyBurned": 200, "basalEnergyBurned": 1500, "stepCount": 5000, "distanceWalkingRunning": 3.5}, "type": "dehydration"}'
+curl -X POST http://127.0.0.1:5000/predict -H "Content-Type: application/json" -d '{"health_data": {"stepCount": 5000, "distanceWalkingRunning": 3.5, "activeEnergyBurned": 200, "restingHeartRate": 65, "walkingHeartRateAverage": 80}, "type": "dehydration"}'
 ```
 
 This will return the prediction based on the provided data.
