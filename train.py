@@ -1,63 +1,60 @@
 import pandas as pd
 import xgboost as xgb
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_squared_error, r2_score
-from sklearn.preprocessing import LabelEncoder
+from sklearn.metrics import classification_report
+from sklearn.impute import SimpleImputer
 
-# Load the CSV data
-df = pd.read_csv("formatted_health_data.csv")
+# Step 1: Load your dataset
+df = pd.read_csv('formatted_health_data.csv')
 
-# Display the first few rows to understand the structure of the data
-print(df.head())
+# Step 2: Preprocess - remove 'type' column
+X = df.drop(columns=['type'])
 
-# Handle missing values by filling with zeros or using an imputer (based on your data)
-df.fillna(0, inplace=True)
+# Step 3: Handle missing values (fill NaNs with column mean)
+imputer = SimpleImputer(strategy='mean')
+X_imputed = imputer.fit_transform(X)
 
-# Feature engineering: Let's say we want to predict 'heartRate' as an example.
-# We'll use the other health metrics as features (you can modify this based on your goals).
-X = df.drop(columns=["heartRate", "type"])  # Drop target column and 'type' if not needed for prediction
-y = df["heartRate"]
+# Optional: Save the imputer for use in predictions
+import joblib
+joblib.dump(imputer, "imputer.pkl")
 
-# Convert categorical data into numerical (if necessary)
-# If 'type' or any other column is categorical, you can apply label encoding
-# This step is optional based on your feature set
+# Step 4: Scale the features
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X_imputed)
+joblib.dump(scaler, "scaler.pkl")
 
-# If 'type' is relevant, you can encode it:
-if "type" in X.columns:
-    label_encoder = LabelEncoder()
-    X["type"] = label_encoder.fit_transform(X["type"])
+# Step 5: KMeans Clustering
+kmeans = KMeans(n_clusters=3, random_state=42)
+cluster_labels = kmeans.fit_predict(X_scaled)
 
-# Split the data into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-# Create a DMatrix (XGBoost's internal data format)
-dtrain = xgb.DMatrix(X_train, label=y_train)
-dtest = xgb.DMatrix(X_test, label=y_test)
-
-# Set XGBoost parameters (these can be tuned for better performance)
-params = {
-    'objective': 'reg:squarederror',  # Regression task
-    'eval_metric': 'rmse',  # Root mean squared error as the evaluation metric
-    'eta': 0.1,  # Learning rate
-    'max_depth': 5,  # Max depth of the trees
-    'subsample': 0.8,  # Fraction of samples used per tree
-    'colsample_bytree': 0.8,  # Fraction of features used per tree
+# Step 6: Manual mapping of clusters to health statuses
+cluster_to_health = {
+    0: "normal",
+    1: "dehydration",
+    2: "overfatigue"
 }
+df['health_status'] = [cluster_to_health[label] for label in cluster_labels]
 
-# Train the model using XGBoost's train function
-num_round = 100  # Number of boosting rounds
-bst = xgb.train(params, dtrain, num_round)
+# Step 7: Encode labels and split
+X_train, X_test, y_train, y_test = train_test_split(X_imputed, df['health_status'], test_size=0.2, random_state=42)
+label_encoder = LabelEncoder()
+y_train_encoded = label_encoder.fit_transform(y_train)
+y_test_encoded = label_encoder.transform(y_test)
+joblib.dump(label_encoder, "label_encoder.pkl")
 
-# Make predictions on the test set
-y_pred = bst.predict(dtest)
+# Step 8: Train XGBoost Classifier
+model = xgb.XGBClassifier(use_label_encoder=False, eval_metric='mlogloss')
+model.fit(X_train, y_train_encoded)
+model.save_model("xgboost_model.json")
 
-# Evaluate the model
-mse = mean_squared_error(y_test, y_pred)
-rmse = mse**0.5
-r2 = r2_score(y_test, y_pred)
+# Step 9: Evaluate
+y_pred = model.predict(X_test)
+print(classification_report(
+    y_test_encoded,
+    y_pred,
+    labels=label_encoder.transform(label_encoder.classes_),
+    target_names=label_encoder.classes_
+))
 
-print(f"Root Mean Squared Error (RMSE): {rmse}")
-print(f"R^2 Score: {r2}")
-
-# Optionally, save the trained model
-bst.save_model("xgboost_model.json")
