@@ -23,10 +23,10 @@ def predict():
 
         # Extract health data and the type
         health_data = input_data.get("health_data", {})
-        target_type = input_data.get("type", "").lower()
+        # target_type = input_data.get("type", "").lower()
 
-        if target_type not in label_encoder.classes_:
-            return jsonify({"error": f"Invalid type. Must be one of {label_encoder.classes_}"}), 400
+        # if target_type not in label_encoder.classes_:
+        #     return jsonify({"error": f"Invalid type. Must be one of {label_encoder.classes_}"}), 400
 
         # Convert the health data into a pandas DataFrame
         df = pd.DataFrame([health_data])
